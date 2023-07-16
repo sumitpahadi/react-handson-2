@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "../App.css";
 
-export class Nam_cls_component extends Component {
+export class Classcom extends Component {
   state = {
     Name: "",
     Dept: "",
@@ -90,4 +90,4 @@ export class Nam_cls_component extends Component {
   }
 }
 
-export default Nam_cls_component;
+export default Classcom;
