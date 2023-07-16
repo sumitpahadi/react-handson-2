@@ -1,5 +1,5 @@
 import "./App.css";
-import Nam_cls_component from "./component/Classcom";
+import Classcom from "./component/Classcom";
 import React from "react";
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
         <h1>Employee Feedback Form</h1>
       </div>
       
-        <Nam_cls_component/>
+        <Classcom/>
       
     </div>
 
