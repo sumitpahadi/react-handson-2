@@ -41,6 +41,15 @@ input[type=text]{
     border-radius: 20px;
     background-color:aquamarine;
 }
+input[type=number]{
+    height: 60px;
+    width: 250px;
+    font-size: larger;
+    padding: 40px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    background-color:aquamarine;
+}
 
 button{
     height: 50px;
